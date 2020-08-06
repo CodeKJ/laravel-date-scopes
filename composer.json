@@ -1,0 +1,31 @@
+{
+    "name": "codekj/laravel-date-scopes",
+    "description": "Provides date scopes for Laravel Eloquent models",
+    "type": "library",
+    "keywords": [
+        "codekj",
+        "laravel-date-scopes",
+        "laravel",
+        "scope",
+        "trait",
+        "eloquent",
+        "php"
+    ],
+    "require": {
+        "php": "^7.1",
+        "nesbot/carbon": "^2.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kristaps Jaremčuks",
+            "email": "kristaps.jaremcuks@gmail.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/CodeKJ/laravel-date-scopes/issues",
+        "source": "https://github.com/CodeKJ/laravel-date-scopes",
+        "email": "kristaps.jaremcuks@gmail.com"
+    },
+    "minimum-stability": "dev"
+}

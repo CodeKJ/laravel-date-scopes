@@ -24,7 +24,7 @@ Use `DateScopes` trait in model
 
 namespace App;
 
-use CodeKJ\Laravel\DateScopes;
+use CodeKJ\Laravel\Traits\DateScopes\DateScopes;
 
 class User extends Model
 {
